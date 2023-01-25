@@ -2,7 +2,7 @@
 
 Desenvolvimento de um servidor Json
 
-Desenvolvimento de um servidor Json-server com 3 rotas utilizando como molde uma transportadora ficticia. O projeto consiste no desenvolvimento de um Json-server que contenha 3 rotas, onde cada rota deve contar quatro ou mais dados já preenchidos.
+<p>Desenvolvimento de um servidor Json-server com 3 rotas utilizando como molde uma transportadora ficticia. O projeto consiste no desenvolvimento de um Json-server que contenha 3 rotas, onde cada rota deve contar quatro ou mais dados já preenchidos.</p>
 
 <p>1- Instale o node.js</p>
 <p>2- Use o comando "npm install -g json-server" no CMD do computador</p>
@@ -10,7 +10,7 @@ Desenvolvimento de um servidor Json-server com 3 rotas utilizando como molde uma
 <p>4- Agora, só acessa-lo usando a url "http://localhost:3000"</p>
 
 ROTAS PERSONALIZADAS
-5- Para acessar as rotas personalizadas, use o comando "npx json-server -r routes.json --watch db.json"
+<p>5- Para acessar as rotas personalizadas, use o comando "npx json-server -r routes.json --watch db.json"</p>
 
 Rodando no render:
 https://santos-filmes-resilia.onrender.com/
