@@ -13,4 +13,4 @@ ROTAS PERSONALIZADAS
 <p>5- Para acessar as rotas personalizadas, use o comando "npx json-server -r routes.json --watch db.json"</p>
 
 Rodando no render:
-https://santos-filmes-resilia.onrender.com/
+<p>https://santos-filmes-resilia.onrender.com/</p>
