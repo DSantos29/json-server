@@ -1,0 +1,54 @@
+{
+    "filmes":[
+        {
+            "id": 1,
+            "titulo": "M3GAN",
+            "duracao": "1h 42min",
+            "ano": 2023,
+            "direcao": "Gerard Johnstone",
+            "generoId": 1
+        },
+        {
+            "id": 2,
+            "titulo": "GATO DE BOTAS 2: O ÚLTIMO PEDIDO",
+            "duracao": "1h 42min",
+            "ano":  2023,
+            "direcao": "Joel Crawford",
+            "generoId": 4
+        },
+        {
+            "id": 3,
+            "titulo": "AVATAR: O CAMINHO DA ÁGUA",
+            "duracao": "3h 12min",
+            "ano":  2022,
+            "direcao": "James Cameron",
+            "generoId": 2
+        },
+        {
+            "id": 4,
+            "titulo": "ESQUEMA DE RISCO: OPERAÇÃO FORTUNE",
+            "duracao": "1h 54min",
+            "ano":  2022, 
+            "direcao": "Guy Ritchie",
+            "generoId": 3
+        }
+    ],
+    "grupo":[
+        {
+            "id": 1,
+            "genero": "Terror"
+        },
+        {
+            "id": 2,
+            "genero": "Ficção científica"
+        },
+        {
+            "id": 3,
+            "genero": "Ação"
+        },
+        {
+            "id": 4,
+            "genero": "Aventura"
+        }
+    ]
+}
