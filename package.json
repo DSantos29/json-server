@@ -1,0 +1,23 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSantos29/json-server.git"
+  },
+  "keywords": [],
+  "author": "DSantos29",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DSantos29/json-server/issues"
+  },
+  "homepage": "https://github.com/DSantos29/json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
