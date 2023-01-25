@@ -1,11 +1,7 @@
 {
-    "GET/filmes/list": "/filmes/",
-    "POST/filmes/create": "/filmes/",
-    "PUT/filmes/update/:id": "/filmes/:id",
-    "DELETE/filmes/delete/:id": "/filmes/:id",
-    "GET/grupo/list": "/grupo/",
-    "POST/grupo/create": "/grupo/",
-    "PUT/grupo/update/:id": "/grupo/:id",
-    "DELETE/grupo/delete/:id": "/grupo/:id"
+    "/filmes/list": "/filmes/",
+    "/filmes/create": "/filmes/",
+    "/filmes/update/:id": "/filmes/:id",
+    "/filmes/delete/:id": "/filmes/:id"
 
 }
